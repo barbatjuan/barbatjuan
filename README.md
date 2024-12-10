@@ -35,10 +35,8 @@ Soy Juan Barbat, desarrollador frontend y QA tester apasionado por crear solucio
 ---
 
 ## 📚 **Metodologías**
-<p align="center">
-  <img src="./assets/agile.png" alt="Agile" width="60" height="60" />
-  <img src="./assets/scrum.png" alt="Scrum" width="60" height="60" />
-</p>
+- 🟢 **Agile**: Mejora continua y desarrollo incremental.
+- 🔵 **Scrum**: Gestión ágil de proyectos con sprints.
 
 
 
