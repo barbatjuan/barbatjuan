@@ -1,3 +1,6 @@
+![Mi Banner](mi-banner.jpg)
+
+
 # Bienvenido a mi perfil de GitHub 👋
 Soy Juan Barbat, desarrollador frontend y QA tester apasionado por crear soluciones tecnológicas eficientes.
 
