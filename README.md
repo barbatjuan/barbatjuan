@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy **Juan Barbat** ¡bienvenido a mi perfil de GitHub!
 
-![Mi Banner](mi-banner.jpg)
+![Mi Banner](mi-nuevo-banner.jpg)
 
 
 Frontend Developer y QA tester con habilidades en Photoshop, Illustrator y Premiere Pro.
