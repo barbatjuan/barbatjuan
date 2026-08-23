@@ -15,14 +15,7 @@ Actualmente explorando nuevas formas de integrar **GPT, Claude, DeepSeek y AI co
 ## 💻 Development Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="55" height="55" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,vite" />
 </p>
 
 ### Frontend
@@ -53,14 +46,12 @@ Actualmente explorando nuevas formas de integrar **GPT, Claude, DeepSeek y AI co
 Integración de modelos de lenguaje y herramientas de Inteligencia Artificial dentro del proceso de desarrollo y automatización.
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/openai" alt="OpenAI" width="60" height="60" />
-  <img src="https://cdn.simpleicons.org/anthropic" alt="Anthropic Claude" width="60" height="60" />
-  <img src="https://cdn.simpleicons.org/deepseek" alt="DeepSeek" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=openai,claude,deepseek" />
 </p>
 
 ### LLMs & AI Tools
 
-* **OpenAI / GPT** — LLM APIs, structured outputs, application integration
+* **OpenAI / GPT** — LLM APIs, structured outputs and application integration
 * **Anthropic / Claude** — Codebase analysis, reasoning and software development
 * **DeepSeek** — Coding, reasoning and model experimentation
 * **Claude Code** — AI-assisted software engineering from the terminal
@@ -94,13 +85,17 @@ Documentation
 Deployment
 ```
 
-El objetivo es integrar la IA directamente en el **software development workflow**, utilizándola para aumentar productividad, acelerar iteraciones y mejorar la calidad del código.
+El objetivo es integrar la IA directamente en el **software development workflow**, utilizándola para aumentar la productividad, acelerar iteraciones y mejorar la calidad del código.
 
 ---
 
 ## ⚙️ Automation & Integrations
 
 Desarrollo de workflows y automatizaciones conectando APIs, servicios externos y modelos de IA.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=n8n,postman" />
+</p>
 
 * n8n
 * REST APIs
@@ -109,7 +104,7 @@ Desarrollo de workflows y automatizaciones conectando APIs, servicios externos y
 * AI workflows
 * Event-driven automation
 * Third-party integrations
-* WhatsApp / messaging integrations
+* Messaging integrations
 * Automated data processing
 
 ---
@@ -117,8 +112,7 @@ Desarrollo de workflows y automatizaciones conectando APIs, servicios externos y
 ## 🧪 QA & Testing
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=postman,jira" />
 </p>
 
 * Functional Testing
@@ -137,8 +131,7 @@ Desarrollo de workflows y automatizaciones conectando APIs, servicios externos y
 ## 🛒 CMS & E-commerce
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" alt="WooCommerce" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=wordpress,woocommerce" />
 </p>
 
 * WordPress
@@ -156,10 +149,7 @@ Desarrollo de workflows y automatizaciones conectando APIs, servicios externos y
 ## ☁️ Cloud & Infrastructure
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="70" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,railway,hostinger,supabase,docker,git,github" />
 </p>
 
 * AWS
@@ -167,6 +157,7 @@ Desarrollo de workflows y automatizaciones conectando APIs, servicios externos y
 * Railway
 * Hostinger
 * Supabase
+* Docker
 * Git
 * GitHub
 * CI/CD
@@ -176,6 +167,10 @@ Desarrollo de workflows y automatizaciones conectando APIs, servicios externos y
 ---
 
 ## 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,supabase" />
+</p>
 
 * PostgreSQL
 * Supabase
@@ -188,10 +183,7 @@ Desarrollo de workflows y automatizaciones conectando APIs, servicios externos y
 ## 🎨 Design & Multimedia
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=ps,ai,figma,pr" />
 </p>
 
 * Adobe Photoshop
@@ -222,6 +214,10 @@ Desarrollo de workflows y automatizaciones conectando APIs, servicios externos y
 
 ## 🚀 Current Focus
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs" />
+</p>
+
 ```text
 AI Engineering
 AI Coding Agents
@@ -237,21 +233,27 @@ Actualmente estoy enfocado en explorar cómo combinar **software engineering + L
 
 ---
 
-## 🧰 Core Stack
+## 🧰 Core Technologies
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind" />
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="45" />
-<img src="https://cdn.simpleicons.org/openai" width="45" />
-<img src="https://cdn.simpleicons.org/anthropic" width="45" />
-<img src="https://cdn.simpleicons.org/deepseek" width="45" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress,woocommerce,supabase,postgres,aws,vercel,railway,git,github" />
+</p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=openai,claude,deepseek,n8n,docker" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="170" />
 </p>
 
 ---
@@ -260,7 +262,7 @@ Actualmente estoy enfocado en explorar cómo combinar **software engineering + L
 
 <p align="center">
   <a href="https://linkedin.com/in/juan-barbat-demontel">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
 </p>
 
