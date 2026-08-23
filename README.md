@@ -1,6 +1,6 @@
 # Juan Barbat
 
-### Full-Stack Developer · WordPress & E-commerce · Automatización
+### Full-Stack Developer · WordPress & E-commerce · Automatización · IA
 
 Desarrollador web enfocado en la construcción de **aplicaciones web, e-commerce y automatizaciones**.
 
@@ -58,7 +58,7 @@ No me dedico a la IA como especialidad, pero la uso a diario para programar mejo
 * **GPT / Claude** — apoyo para programar, revisar código y resolver bugs
 * **Claude Code** — asistente de desarrollo desde terminal
 * **APIs de LLMs** — integración puntual en proyectos web cuando aporta valor real
-* **Prompt engineering básico** — para sacarle más partido a estas herramientas
+* **Prompt engineering** — para sacarle más partido a estas herramientas
 
 ---
 
