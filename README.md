@@ -1,33 +1,30 @@
 # Juan Barbat
 
-### Full-Stack Developer · AI Engineering · QA & Automation
+### Full-Stack Developer · WordPress & E-commerce · Automatización
 
-Desarrollador web enfocado en la construcción de **aplicaciones web, e-commerce, automatizaciones y soluciones basadas en Inteligencia Artificial**.
+Desarrollador web enfocado en la construcción de **aplicaciones web, e-commerce y automatizaciones**.
 
-Trabajo principalmente con **JavaScript / TypeScript, React, Next.js, Node.js y WordPress/WooCommerce**, combinando desarrollo tradicional con **AI-assisted development, LLMs, agentes de IA y automatización de workflows**.
+Trabajo principalmente con **JavaScript / TypeScript, React, Next.js, Node.js y WordPress/WooCommerce**. En el día a día también uso herramientas de IA (Claude, GPT, Claude Code) como apoyo para programar más rápido y con menos errores — no como algo aparte, sino integrado en el flujo normal de trabajo.
 
 Experiencia en **desarrollo frontend y backend, integración de APIs, arquitectura de aplicaciones, testing, debugging, optimización y despliegue**.
-
-Actualmente explorando nuevas formas de integrar **GPT, Claude, DeepSeek y AI coding agents** dentro del ciclo completo de desarrollo de software.
 
 ---
 
 ## 💻 Development Stack
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="55" height="55" />
-  <img src="https://cdn.simpleicons.org/css3" alt="CSS3" width="55" height="55" />
-  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="55" height="55" />
-  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="55" height="55" />
-  <img src="https://cdn.simpleicons.org/react" alt="React" width="55" height="55" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/white" alt="Next.js" width="55" height="55" />
-  <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="55" height="55" />
-  <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="55" height="55" />
-  <img src="https://cdn.simpleicons.org/vite" alt="Vite" width="55" height="55" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
 ### Frontend
-
 * HTML5 / CSS3
 * JavaScript / TypeScript
 * React
@@ -38,7 +35,6 @@ Actualmente explorando nuevas formas de integrar **GPT, Claude, DeepSeek y AI co
 * Component-based architecture
 
 ### Backend & APIs
-
 * Node.js
 * REST APIs
 * API integrations
@@ -49,69 +45,35 @@ Actualmente explorando nuevas formas de integrar **GPT, Claude, DeepSeek y AI co
 
 ---
 
-## 🤖 AI Engineering & LLMs
+## 🤖 IA como herramienta de trabajo
 
-Integración de modelos de lenguaje y herramientas de Inteligencia Artificial dentro del proceso de desarrollo y automatización.
+No me dedico a la IA como especialidad, pero la uso a diario para programar mejor y más rápido: generación de código, revisión, debugging, documentación, y algo de integración de APIs de IA en proyectos cuando el cliente lo necesita.
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/openai/white" alt="OpenAI" width="60" height="60" />
-  <img src="https://cdn.simpleicons.org/anthropic" alt="Anthropic Claude" width="60" height="60" />
-  <img src="https://cdn.simpleicons.org/deepseek" alt="DeepSeek" width="60" height="60" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
 </p>
 
-### LLMs & AI Tools
-
-* **OpenAI / GPT** — LLM APIs, structured outputs and application integration
-* **Anthropic / Claude** — Codebase analysis, reasoning and software development
-* **DeepSeek** — Coding, reasoning and model experimentation
-* **Claude Code** — AI-assisted software engineering from the terminal
-* **LLM APIs** — Integration of AI models into web applications
-* **AI Agents** — Autonomous tasks, orchestration and development workflows
-* **Prompt Engineering** — System prompts, context management and structured instructions
-* **RAG** — Retrieval-Augmented Generation and knowledge-based applications
-* **AI Automation** — LLM-powered workflows and API integrations
-
-### AI-assisted Development
-
-Utilizo LLMs como herramientas de ingeniería durante diferentes etapas del ciclo de desarrollo:
-
-```text
-Architecture
-     ↓
-Planning
-     ↓
-Code Generation
-     ↓
-Code Review
-     ↓
-Debugging
-     ↓
-Refactoring
-     ↓
-Testing
-     ↓
-Documentation
-     ↓
-Deployment
-```
-
-El objetivo es integrar la IA directamente en el **software development workflow**, utilizándola para aumentar la productividad, acelerar iteraciones y mejorar la calidad del código.
+* **GPT / Claude** — apoyo para programar, revisar código y resolver bugs
+* **Claude Code** — asistente de desarrollo desde terminal
+* **APIs de LLMs** — integración puntual en proyectos web cuando aporta valor real
+* **Prompt engineering básico** — para sacarle más partido a estas herramientas
 
 ---
 
 ## ⚙️ Automation & Integrations
 
-Desarrollo de workflows y automatizaciones conectando APIs, servicios externos y modelos de IA.
+Desarrollo de workflows y automatizaciones conectando APIs y servicios externos.
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="60" height="60" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
 * n8n
 * REST APIs
 * Webhooks
 * API automation
-* AI workflows
 * Event-driven automation
 * Third-party integrations
 * Messaging integrations
@@ -122,8 +84,8 @@ Desarrollo de workflows y automatizaciones conectando APIs, servicios externos y
 ## 🧪 QA & Testing
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="60" height="60" />
-  <img src="https://cdn.simpleicons.org/jira" alt="Jira" width="60" height="60" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
 * Functional Testing
@@ -134,16 +96,14 @@ Desarrollo de workflows y automatizaciones conectando APIs, servicios externos y
 * Bug Tracking
 * Debugging
 * Quality Assurance
-* API validation
-* Error analysis
 
 ---
 
 ## 🛒 CMS & E-commerce
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/wordpress/white" alt="WordPress" width="60" height="60" />
-  <img src="https://cdn.simpleicons.org/woocommerce" alt="WooCommerce" width="60" height="60" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
 </p>
 
 * WordPress
@@ -161,14 +121,14 @@ Desarrollo de workflows y automatizaciones conectando APIs, servicios externos y
 ## ☁️ Cloud & Infrastructure
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/amazonaws" alt="AWS" width="60" height="60" />
-  <img src="https://cdn.simpleicons.org/vercel/white" alt="Vercel" width="60" height="60" />
-  <img src="https://cdn.simpleicons.org/railway" alt="Railway" width="60" height="60" />
-  <img src="https://cdn.simpleicons.org/hostinger" alt="Hostinger" width="60" height="60" />
-  <img src="https://cdn.simpleicons.org/supabase" alt="Supabase" width="60" height="60" />
-  <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="60" height="60" />
-  <img src="https://cdn.simpleicons.org/git" alt="Git" width="60" height="60" />
-  <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="60" height="60" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 * AWS
@@ -188,7 +148,7 @@ Desarrollo de workflows y automatizaciones conectando APIs, servicios externos y
 ## 🗄️ Databases
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="60" height="60" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 * PostgreSQL
@@ -201,10 +161,10 @@ Desarrollo de workflows y automatizaciones conectando APIs, servicios externos y
 ## 🎨 Design & Multimedia
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/adobephotoshop" alt="Adobe Photoshop" width="60" height="60" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator" alt="Adobe Illustrator" width="60" height="60" />
-  <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="60" height="60" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro" alt="Adobe Premiere Pro" width="60" height="60" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Adobe Premiere Pro" />
 </p>
 
 * Adobe Photoshop
@@ -219,8 +179,8 @@ Desarrollo de workflows y automatizaciones conectando APIs, servicios externos y
 
 ## 📚 Development Practices
 
-![SCRUM](https://img.shields.io/badge/-SCRUM-6DB33F?logo=agile\&logoColor=white\&style=flat)
-![Agile](https://img.shields.io/badge/-Agile-FF6600?logo=agile\&logoColor=white\&style=flat)
+![SCRUM](https://img.shields.io/badge/-SCRUM-6DB33F?logo=agile&logoColor=white&style=flat)
+![Agile](https://img.shields.io/badge/-Agile-FF6600?logo=agile&logoColor=white&style=flat)
 
 * Agile / Scrum
 * Git-based development
@@ -228,34 +188,7 @@ Desarrollo de workflows y automatizaciones conectando APIs, servicios externos y
 * Continuous improvement
 * Debugging & profiling
 * Documentation
-* AI-assisted development
 * Automation-first workflows
-
----
-
-## 🚀 Current Focus
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/react" alt="React" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/white" alt="Next.js" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/openai/white" alt="OpenAI" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/anthropic" alt="Claude" width="50" height="50" />
-</p>
-
-```text
-AI Engineering
-AI Coding Agents
-LLM Integration
-AI Automation
-Full-Stack Development
-Modern Web Applications
-API Architecture
-Developer Productivity
-```
-
-Actualmente estoy enfocado en explorar cómo combinar **software engineering + LLMs + automation** para construir aplicaciones más inteligentes y reducir la fricción entre planificación, desarrollo, testing y deployment.
 
 ---
 
@@ -263,10 +196,10 @@ Actualmente estoy enfocado en explorar cómo combinar **software engineering + L
 
 <p align="center">
   <a href="https://linkedin.com/in/juan-barbat-demontel">
-    <img src="https://cdn.simpleicons.org/linkedin/white" alt="LinkedIn" width="55" height="55" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 <p align="center">
-  <i>Building software with code, automation and AI.</i>
+  <i>Building software with code, automation and a bit of AI help.</i>
 </p>
