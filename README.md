@@ -15,7 +15,15 @@ Actualmente explorando nuevas formas de integrar **GPT, Claude, DeepSeek y AI co
 ## 💻 Development Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,vite" />
+  <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="55" height="55" />
+  <img src="https://cdn.simpleicons.org/css3" alt="CSS3" width="55" height="55" />
+  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="55" height="55" />
+  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="55" height="55" />
+  <img src="https://cdn.simpleicons.org/react" alt="React" width="55" height="55" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/white" alt="Next.js" width="55" height="55" />
+  <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="55" height="55" />
+  <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="55" height="55" />
+  <img src="https://cdn.simpleicons.org/vite" alt="Vite" width="55" height="55" />
 </p>
 
 ### Frontend
@@ -46,7 +54,9 @@ Actualmente explorando nuevas formas de integrar **GPT, Claude, DeepSeek y AI co
 Integración de modelos de lenguaje y herramientas de Inteligencia Artificial dentro del proceso de desarrollo y automatización.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=openai,claude,deepseek" />
+  <img src="https://cdn.simpleicons.org/openai/white" alt="OpenAI" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/anthropic" alt="Anthropic Claude" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/deepseek" alt="DeepSeek" width="60" height="60" />
 </p>
 
 ### LLMs & AI Tools
@@ -94,7 +104,7 @@ El objetivo es integrar la IA directamente en el **software development workflow
 Desarrollo de workflows y automatizaciones conectando APIs, servicios externos y modelos de IA.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=n8n,postman" />
+  <img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="60" height="60" />
 </p>
 
 * n8n
@@ -112,7 +122,8 @@ Desarrollo de workflows y automatizaciones conectando APIs, servicios externos y
 ## 🧪 QA & Testing
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,jira" />
+  <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/jira" alt="Jira" width="60" height="60" />
 </p>
 
 * Functional Testing
@@ -131,7 +142,8 @@ Desarrollo de workflows y automatizaciones conectando APIs, servicios externos y
 ## 🛒 CMS & E-commerce
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,woocommerce" />
+  <img src="https://cdn.simpleicons.org/wordpress/white" alt="WordPress" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/woocommerce" alt="WooCommerce" width="60" height="60" />
 </p>
 
 * WordPress
@@ -149,7 +161,14 @@ Desarrollo de workflows y automatizaciones conectando APIs, servicios externos y
 ## ☁️ Cloud & Infrastructure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,vercel,railway,hostinger,supabase,docker,git,github" />
+  <img src="https://cdn.simpleicons.org/amazonaws" alt="AWS" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/vercel/white" alt="Vercel" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/railway" alt="Railway" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/hostinger" alt="Hostinger" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/supabase" alt="Supabase" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/git" alt="Git" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="60" height="60" />
 </p>
 
 * AWS
@@ -169,11 +188,10 @@ Desarrollo de workflows y automatizaciones conectando APIs, servicios externos y
 ## 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,supabase" />
+  <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="60" height="60" />
 </p>
 
 * PostgreSQL
-* Supabase
 * SQL
 * Database design
 * API-driven data models
@@ -183,7 +201,10 @@ Desarrollo de workflows y automatizaciones conectando APIs, servicios externos y
 ## 🎨 Design & Multimedia
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,figma,pr" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop" alt="Adobe Photoshop" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/adobeillustrator" alt="Adobe Illustrator" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="60" height="60" />
+  <img src="https://cdn.simpleicons.org/adobepremierepro" alt="Adobe Premiere Pro" width="60" height="60" />
 </p>
 
 * Adobe Photoshop
@@ -215,7 +236,12 @@ Desarrollo de workflows y automatizaciones conectando APIs, servicios externos y
 ## 🚀 Current Focus
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs" />
+  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/react" alt="React" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/white" alt="Next.js" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/openai/white" alt="OpenAI" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/anthropic" alt="Claude" width="50" height="50" />
 </p>
 
 ```text
@@ -233,36 +259,11 @@ Actualmente estoy enfocado en explorar cómo combinar **software engineering + L
 
 ---
 
-## 🧰 Core Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,woocommerce,supabase,postgres,aws,vercel,railway,git,github" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=openai,claude,deepseek,n8n,docker" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="170" />
-</p>
-
----
-
 ## 📫 Contact
 
 <p align="center">
   <a href="https://linkedin.com/in/juan-barbat-demontel">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+    <img src="https://cdn.simpleicons.org/linkedin/white" alt="LinkedIn" width="55" height="55" />
   </a>
 </p>
 
